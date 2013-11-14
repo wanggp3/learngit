@@ -3,3 +3,4 @@
  creazy
  hello
  word
+ know
